@@ -7,7 +7,7 @@ El teléfono se encuentra en una celda específica, cuando el teléfono sale de 
 En los medios inalámbricos utilizar señales de baja frecuencia no es práctica porque el tamaño de la antena necesita ser de un tamaño menor a la longitud de la onda de la señal, por lo que llegaría a ser muy grande. Además, al utilizar una señal de baja frecuencia, se tendrá que utilizar una mayor potencia que al recibir una fuerte. 
 
 ### Ante una crisis como conflicto bélico o un desastre natural, que daña o afecta los canales de comunicación o infraestructura de un país, ¿Qué tipo de transmisión recomendaría a ese país para mantener comunicación con el resto del mundo? Explique.
-
+Yo recomendaría la amplitud modulada, ya que es mejor en largas distancias y en terrenos montañosos que la frecuencia modulada, aunque tengo peor calidad de audio y tenga un costo mayor de instalación. 
 
 ### Explique el concepto ancho de banda en telecomunicaciones.
 El ancho de banda es la cantidad de datos que se pueden transferir entre dos puntos en una red en un tiempo específico. Representa la capacidad de transmisión de una conexión y ayuda a determinar la calidad y la velocidad.
