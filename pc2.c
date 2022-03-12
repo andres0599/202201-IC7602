@@ -11,4 +11,4 @@ int main(int argc, char *argv[])
   return 0;
 }
 
-//Estaba en clases y me dolia la cabeza. 
+//Estaba en clases y me dolia la cabeza, totalmente malo.
